@@ -1,2 +1,3 @@
 # flare
-Kylin_flyingpi_DIY(rebase from dronin's flyingpi)
+dRonin的树莓派飞控中文化学习交流
+https://github.com/xfce/flare/wiki
